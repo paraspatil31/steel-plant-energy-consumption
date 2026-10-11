@@ -74,8 +74,8 @@ The dataset records shift-level steel plant metrics with the following attribute
 ### 2. Clone the Repository
 
 ```bash
-git clone https://github.com/paraspatil31/Energy-consumption.git
-cd Energy-consumption
+git clone https://github.com/paraspatil31/steel-plant-energy-consumption.git
+cd steel-plant-energy-consumption
 ```
 
 ### 3. Create a Virtual Environment (Optional but Recommended)
